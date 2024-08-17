@@ -4,6 +4,7 @@
 
 - Min HyeJun [:octocat:](https://github.com/alsgpwns)  
 - Im Chaeyoon [:octocat:]( )
+- Yu Geesang [:octocat:]( )
 
 <br>
 <br>
@@ -12,8 +13,9 @@
 
 |    참여자    |         링크         |
 | :----------: | :------------------: |
-| Min HyeJun | [:link:](./jangwon/) |
+| Min Hyejun | [:link:](https://github.com/NextStep-Coders/main_repo/tree/main/hyejun) |
 | Im Chaeyoon | [:link:](./hyejun/)  |
+| Yu Geesang | [:link:](./hyejun/)  |
 
 <br>
 <br>
@@ -53,9 +55,9 @@
 
 - PR 제목
 
-  백준 예시  : `220707 이름 플랫폼 문제번호 문제이름 풀이`  (240707 민혜준 백준 2615 오목 풀이) 
+  백준 예시  : `240707 이름 플랫폼 문제번호 문제이름 풀이`  (240707 민혜준 백준 2615 오목 풀이) 
 
-  프로그래머스 예시  : `220707 이름 플랫폼 문제이름 풀이`  (240707 민혜준 프로그래머스 오픈채팅방 풀이)
+  프로그래머스 예시  : `240707 이름 플랫폼 문제이름 풀이`  (240707 민혜준 프로그래머스 오픈채팅방 풀이)
 
 - PR 내용 → 풀이 방법에 대한 간단한 설명
 
